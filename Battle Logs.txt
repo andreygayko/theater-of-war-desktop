@@ -1,0 +1,21 @@
+Elf vs Old mage
+Start
+Round 1
+Elf crits
+Elf makes 44 damage
+After round Old mage has 36 hp
+Old mage makes 38 damage
+After round Elf has 52 hp
+Round 2
+Elf makes 29 damage
+After round Old mage has 7 hp
+Old mage makes 38 damage
+After round Elf has 14 hp
+Round 3
+Elf crits
+Elf makes 44 damage
+After round Old mage has -37 hp
+Elf dodged
+Old mage makes 0 damage
+After round Elf has 14 hp
+Elf wins!
